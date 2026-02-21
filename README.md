@@ -28,6 +28,7 @@ A curated list of job boards and resources for finding jobs in the Web3 industry
 - [BeInCrypto Jobs](https://beincrypto.com/jobs/) - A job board for cryptocurrency and blockchain positions.
 - [ConsenSys Jobs](https://consensys.net/careers/) - A list of open positions at ConsenSys, a leading Ethereum development company.
 - [Blockchain Headhunter](https://www.blockchainheadhunter.com/jobs) - A job board for blockchain and cryptocurrency positions.
+- [SailOnChain](https://sailonchain.com/) - A crypto and Web3 job board with 1,400+ live openings from 100+ blockchain companies, global remote options and salary data.
 
 ## Contributing 👷
 
