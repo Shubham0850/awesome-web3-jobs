@@ -36,3 +36,5 @@ If you know of a job board or resource that would be a great addition to this li
 ## License 🪪
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+- [GMI Jobs](https://gmijobs.com) - Crypto-native job board for Web3 professionals — curated roles from 200+ blockchain companies with AI-powered job enrichment.
