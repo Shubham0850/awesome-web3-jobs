@@ -16,6 +16,7 @@ A curated list of job boards and resources for finding jobs in the Web3 industry
 - [CryptoJobs](https://crypto.jobs/) - A job board for transitioning from Web2 to Web3.
 - [CryptocurrencyJobs.co](https://cryptocurrencyjobs.co/) - A job board for cryptocurrency and blockchain positions.
 - [DeFi Jobs](https://www.defi.jobs/) - A job board for decentralized finance positions.
+- [GMI Jobs](https://gmijobs.com/) - A crypto-native job board with live roles from 230+ companies, salary and token-compensation data.
 - [SHE256 Job Board](https://jobs.she256.org/jobs) - A job board for women in blockchain and Web3.
 - [WEB3board.io](https://web3board.io/) - A job board for Web3 developers and engineers.
 - [Pomp Crypto Jobs](https://pompcryptojobs.com/) - A job board for cryptocurrency and blockchain positions.
