@@ -36,3 +36,5 @@ If you know of a job board or resource that would be a great addition to this li
 ## License 🪪
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+* [CryptoJobsHub](https://www.cryptojobshub.io) - Curated crypto, Web3, and blockchain job board with verified remote engineering, marketing, and leadership listings.
